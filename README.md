@@ -20,4 +20,4 @@ charge to support a broad range of computationally-intensive research projects
 that might not be possible otherwise.
 
 Learn more about the TensorFlow Research Cloud at
-[g.co.tfrc](https://g.co/tfrc).
+[g.co/tfrc](https://g.co/tfrc).
