@@ -33,6 +33,7 @@ To get started right away, try one of these TPU-compatible notebook examples:
 -   [Fashion MNIST with Keras and TPUs](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/fashion_mnist.ipynb)
 -   [Predict Shakespeare with Cloud TPUs and Keras](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb)
 -   [End-to-end Keras example (including serving)](https://colab.research.google.com/drive/1myF-aXi33KCz8Ff6BY6hWolSxNVagIz5)
+-   [AdaNet on Cloud TPUs](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/adanet_tpu.ipynb)
 -   [BERT on Cloud TPUs](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb)
     (state-of-the-art NLP: [paper](https://arxiv.org/abs/1810.04805),
     [code](https://github.com/google-research/bert))
