@@ -79,6 +79,11 @@ Here are a few helpful Cloud TPU resources:
 -   [Stack Overflow](https://stackoverflow.com/questions/tagged/google-cloud-tpu)
 -   [GitHub](https://github.com/tensorflow/tpu)
 
+## I'm ready to publish - how can I acknowledge the program?
+
+Thanks for asking - we'd recommend "Research supported with Cloud TPUs from Google's
+TensorFlow Research Cloud (TFRC)" or similar.
+
 ## Can I have more?
 
 Our goal is to accelerate open machine learning research. If you have a proposal
