@@ -16,6 +16,18 @@ drive their TPUs as well as Google Cloud Storage (GCS) buckets to hold training
 data. These costs are generally minimal. If you have questions about
 TFRC-related charges please <a href="mailto:tfrc-support@google.com">contact us</a>.
 
+## What are the program requirements?
+
+Participants in the TFRC program are expected to: 
+
+-   Share their TFRC-supported research with the world through peer-reviewed publications,
+    open source code, blog posts, or other means 
+-   Share detailed feedback with Google to help us improve the TFRC program and the underlying
+    Cloud TPU platform over time
+-   Agree to conduct their research in accordance with the Google [AI Principles](https://ai.google/principles)
+-   Accept Google's [Terms and Conditions](https://www.google.com/intl/en/policies/terms/)
+-   Acknowledge that their information will be used in accordance with our [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
 ## I need time to prepare, can I defer my free TPU start date?
 
 Once you've been accepted to the TFRC program, the choice of when to start your
