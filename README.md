@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://2.bp.blogspot.com/-xojf3dn8Ngc/WRubNXxUZJI/AAAAAAAAB1A/0W7o1hR_n20QcWyXHXDI1OTo7vXBR8f7QCLcB/s400/image2.png"><br><br>
-</div>
+![TRC](assets/tpu-research-cloud.png)
 
 --------------------------------------------------------------------------------
 
@@ -14,10 +12,10 @@ possible for researchers to invent new types of ML models that will be even more
 accurate and useful.
 
 To accelerate the pace of open machine-learning research, we have introduced the
-**TensorFlow Research Cloud** (TFRC), a cluster of 1,000
+**TPU Research Cloud** (TRC), a cluster of 1,000
 [Cloud TPUs](https://cloud.google.com/tpu/) that are made available free of
 charge to support a broad range of computationally-intensive research projects
 that might not be possible otherwise.
 
-Learn more about the TensorFlow Research Cloud at
-[g.co/tfrc](https://g.co/tfrc).
+Learn more about the TPU Research Cloud at
+[sites.research.google/trc](https://sites.research.google/trc/).
