@@ -1,28 +1,28 @@
 # Frequently Asked Questions
 
-## How does the TFRC program work?
+## How does the TRC program work?
 
 Anyone can apply for the program by signing up at
-[g.co/tfrc](https://g.co/tfrc). Invitations are sent out to approved applicants
-on a rolling basis. When an invitation is accepted, free Cloud TPU quota is
-granted to the invitee’s Google Cloud Platform project on a temporary basis and
+[sites.research.google/trc](https://sites.research.google/trc/). Invitations are sent out
+to approved applicants on a rolling basis. When an invitation is accepted, free Cloud TPU
+quota is granted to the invitee’s Google Cloud Platform project on a temporary basis and
 is ready to use within minutes.
 
 ## Is it really free?
 
-While Cloud TPUs are free to use for TFRC participants, other GCP services are
+While Cloud TPUs are free to use for TRC participants, other GCP services are
 not. Participants can expect to utilize small VM instances (n1-standard-2) to
 drive their TPUs as well as Google Cloud Storage (GCS) buckets to hold training
 data. These costs are generally minimal. If you have questions about
-TFRC-related charges please <a href="mailto:tfrc-support@google.com">contact us</a>.
+TRC-related charges please <a href="mailto:trc-support@google.com">contact us</a>.
 
 ## What are the program requirements?
 
-Participants in the TFRC program are expected to: 
+Participants in the TRC program are expected to: 
 
--   Share their TFRC-supported research with the world through peer-reviewed publications,
+-   Share their TRC-supported research with the world through peer-reviewed publications,
     open source code, blog posts, or other means 
--   Share detailed feedback with Google to help us improve the TFRC program and the underlying
+-   Share detailed feedback with Google to help us improve the TRC program and the underlying
     Cloud TPU platform over time
 -   Agree to conduct their research in accordance with the Google [AI Principles](https://ai.google/principles)
 -   Accept Google's [Terms and Conditions](https://www.google.com/intl/en/policies/terms/)
@@ -30,7 +30,7 @@ Participants in the TFRC program are expected to:
 
 ## I need time to prepare, can I defer my free TPU start date?
 
-Once you've been accepted to the TFRC program, the choice of when to start your
+Once you've been accepted to the TRC program, the choice of when to start your
 free TPU access is up to you, subject to availability. Whenever you are ready,
 simply follow the instructions in the introductory email.
 
@@ -75,9 +75,9 @@ Cloud TPUs. We'd recommend following one of the
 [Cloud TPU tutorials](https://cloud.google.com/tpu/docs/tutorials) to get
 familiar with these models.
 
-## Can TFRC quota be used with [Cloud ML Engine](https://cloud.google.com/ml-engine/)?
+## Can TRC quota be used with [CMLE / CAIP / Vertex](https://cloud.google.com/ml-engine/)?
 
-Cloud TPU quota granted under the TFRC program is not compatible with CMLE-based
+Cloud TPU quota granted under the TRC program is not compatible with CMLE-based
 workflows; we recommend using the [GCE tutorials](https://cloud.google.com/tpu/docs/)
 to get started instead.
 
@@ -94,17 +94,17 @@ Here are a few helpful Cloud TPU resources:
 ## I'm ready to publish - how can I acknowledge the program?
 
 Thanks for asking - we'd recommend "Research supported with Cloud TPUs from Google's
-TensorFlow Research Cloud (TFRC)" or similar.
+TPU Research Cloud (TRC)" or similar.
 
 ## Can I have more?
 
 Our goal is to accelerate open machine learning research. If you have a proposal
 for using larger amounts of Cloud TPU capacity please
-<a href="mailto:tfrc-support@google.com">contact us</a> with additional information
+<a href="mailto:trc-support@google.com">contact us</a> with additional information
 about your project’s goals, needs, and timeline. For example, the open source
 [MiniGo](https://github.com/tensorflow/minigo) project
 [successfully used 640 Cloud TPUs simultaneously via GKE](https://cloud.google.com/blog/products/ai-machine-learning/cloud-tpus-in-kubernetes-engine-powering-minigo-are-now-available-in-beta).
 
 ## I have another question that isn’t covered here...
 
-Please <a href="mailto:tfrc-support@google.com">contact us</a> - we’ll be happy to help!
+Please <a href="mailto:trc-support@google.com">contact us</a> - we’ll be happy to help!
